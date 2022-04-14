@@ -1,5 +1,5 @@
 import { createContext, useState } from "react";
-import Card from "./components/Nav/ui/Card";
+import Card from "./components/ui/Card";
 import useFetch from "./shared/useFetch";
 
 const ClothesContext = createContext<any | null>(null);
