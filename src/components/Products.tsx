@@ -1,4 +1,4 @@
-import Card from "./Nav/ui/Card";
+import Card from "./ui/Card";
 import { useContext } from "react";
 import ClothesContext from "../ClothesContext";
 
