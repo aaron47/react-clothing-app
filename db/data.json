@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "Classic T-Shirt",
+      "price": 50,
+      "id": 1
+    },
+    {
+      "name": "Supreme T-Shirt",
+      "price": 100,
+      "id": 2
+    },
+    {
+      "name": "Goblingon T-Shirt",
+      "price": 70,
+      "id": 3
+    },
+    {
+      "name": "Brand New T-Shirt",
+      "price": 60,
+      "id": 4
+    }
+  ]
+}
